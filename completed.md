@@ -1,7 +1,7 @@
 #### Things completed
 
 * Gauge cluster clean/rebuild, changed odometer gears
-  * Gear Cost: $18.50 (eBay)
+   * Gear Cost: $18.50 (eBay)
 * Replaced all interior and trunk lightbulbs ([LED](https://www.amazon.com/gp/product/B01FLGODQY/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)) 
   * Cost: $7.99
 * Replaced all taillight bulbs
@@ -44,10 +44,10 @@
   * Lock Strip Cost: 	$74.69
   * Safelite windshield replacement: $250
 * Changed engine oil & filter
- * [Mahle Oil Filter](https://www.bavauto.com/bmw-oil-filter-oc49)
-   * Cost: $4.95
- * [Liqui Moly 5W-40 - 5 Liter](https://www.amazon.com/gp/product/B005H2SHS8/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
-   * Cost: $36.87
+  * [Mahle Oil Filter](https://www.bavauto.com/bmw-oil-filter-oc49)
+    * Cost: $4.95
+  * [Liqui Moly 5W-40 - 5 Liter](https://www.amazon.com/gp/product/B005H2SHS8/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+    * Cost: $36.87
 * [Fuel Filter - Mahle](https://www.bavauto.com/bmw-fuel-filter-kl9)
   * Cost: $11.95
 * [Air Filter - Mahle](https://www.bavauto.com/bmw-air-filter-lx105)
