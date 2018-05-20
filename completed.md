@@ -59,5 +59,12 @@
   * Cost: $34.90 (eBay)
 * Driver Side Seat Belt
   * Cost: $62.00 (eBay)
+* [ECU Coolant Temp Sensor (Blue)](https://www.amazon.com/gp/product/B001CO2VU0/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+  * Cost: $15.42
+* Gauge Cluster Coolant Temp Sensor (Brown)
+  * Cost: $9.61 (eBay)
+* Wiper Blades - Bosch ICON
+  * Cost: $38.30
+  
 
 
