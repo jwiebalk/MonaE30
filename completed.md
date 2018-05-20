@@ -24,6 +24,8 @@
       * Cost: $20.89
   * [Coolant hose kit](https://www.ecstuning.com/b-assembled-by-ecs-parts/coolant-hose-kit/11531279895kt/)
       * Cost: $60.49
+  * [Outer Camshaft seal](https://www.bavauto.com/bmw-camshaft-seal-099201)
+      * Cost: $0.95
   * Drive Belts
       * [Power steering belt](https://www.ecstuning.com/b-continental-parts/power-steering-belt/32421706825~con/)
         * Cost: $7.38
@@ -31,8 +33,7 @@
         * Cost: $5.95
       * [A/C belt](https://www.ecstuning.com/b-conti-tech-parts/air-conditioning-accessory-belt/64551722990~con/)
         * Cost: $5.99
-      * [Outer Camshaft seal](https://www.bavauto.com/bmw-camshaft-seal-099201)
-        * Cost: $0.95
+
 * [Air Intake Hose](https://www.ecstuning.com/b-mtc-parts/rubber-boot/13711285479~mtc/)
   * Cost: $5.74
 * [Hood Strut](https://www.ecstuning.com/b-uro-parts/hood-prop-strut-priced-each/51231906286~uro/)
