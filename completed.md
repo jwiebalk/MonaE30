@@ -1,6 +1,7 @@
 #### Things completed
 
 * Gauge cluster clean/rebuild, changed odometer gears
+  * Gear Cost: $18.50 (eBay)
 * Replaced all interior and trunk lightbulbs ([LED](https://www.amazon.com/gp/product/B01FLGODQY/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)) 
   * Cost: $7.99
 * Replaced all taillight bulbs
@@ -9,14 +10,15 @@
   * [NGK ZGR5A](https://www.ecstuning.com/b-ngk-parts/spark-plugs-set-of-six-zgr5a/12121279599kt1/)
   * Cost: $13.08
 * [Timing belt kit](https://www.ecstuning.com/b-assembled-by-ecs-parts/ultimate-timing-belt-kit-level-2/m20_11~2/)
-  * Timing Belt
-  * Tensioner
-  * Tensioner Spring and Bolt
-  * Water Pump & Gasket
-  * Thermostat & Gasket
-  * Camshaft Shaft Seal
-  * 1 Liter of Coolant
-  * Radiator Drain Plug
+  * Cost: $126.57
+    * Timing Belt
+    * Tensioner
+    * Tensioner Spring and Bolt
+    * Water Pump & Gasket
+    * Thermostat & Gasket
+    * Camshaft Shaft Seal
+    * 1 Liter of Coolant
+    * Radiator Drain Plug
 * Timing belt replacement extras
   * [1 Gallon BMW Coolant](https://www.ecstuning.com/b-genuine-bmw-parts/bmw-coolant-antifreeze-1-gallon/82141467704/)
       * Cost: $20.89
@@ -29,15 +31,33 @@
         * Cost: $5.95
       * [A/C belt](https://www.ecstuning.com/b-conti-tech-parts/air-conditioning-accessory-belt/64551722990~con/)
         * Cost: $5.99
+      * [Outer Camshaft seal](https://www.bavauto.com/bmw-camshaft-seal-099201)
+        * Cost: $0.95
+* [Air Intake Hose](https://www.ecstuning.com/b-mtc-parts/rubber-boot/13711285479~mtc/)
+  * Cost: $5.74
+* [Hood Strut](https://www.ecstuning.com/b-uro-parts/hood-prop-strut-priced-each/51231906286~uro/)
+  * Cost: $7.25
+* [Gas Filler Cap](https://www.ecstuning.com/b-febi-parts/fuel-tank-filler-cap/16116750564~feb/)
+  * Cost: $12.86
+* Windshield and [lock strip](https://www.ecstuning.com/b-genuine-bmw-parts/windshield-molding-chrome/51311884402/)
+  * Lock Strip Cost: 	$74.69
+  * Safelite windshield replacement: $250
+* Changed engine oil & filter
+ * [Mahle Oil Filter](https://www.bavauto.com/bmw-oil-filter-oc49)
+   * Cost: $4.95
+ * [Liqui Moly 5W-40 - 5 Liter](https://www.amazon.com/gp/product/B005H2SHS8/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+   * Cost: $36.87
+* [Fuel Filter - Mahle](https://www.bavauto.com/bmw-fuel-filter-kl9)
+  * Cost: $11.95
+* [Air Filter - Mahle](https://www.bavauto.com/bmw-air-filter-lx105)
+  * Cost: $5.95
+* [New coolant level sensor](https://www.bavauto.com/bmw-coolant-level-sender-61311375715u)
+  * Cost: $7.95
+* Replaced Air flow meter -- Used
+  * Cost: $35.00 (eBay)
+* Fuel Filler Neck Hose
+  * Cost: $34.90 (eBay)
+* Driver Side Seat Belt
+  * Cost: $62.00 (eBay)
 
-* Changed engine oil & filter (10W-30 synthetic)
-* New belts (power steering, alternator, and A/C belts)
-* New spark plugs
-* New radiator and hoses
-* Coolant flush, used BMW coolant purchased from the dealer
-
-* Idle Control Valve
-* Throttle Body-Bypass (??????)
-* New coolant level sensor.
-* Replaced Air flow meter
 
