@@ -69,6 +69,8 @@
 * Fuel dampner removal - (leaking)
   * Replaced with [hose barb](https://www.amazon.com/gp/product/B013VTGBX6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
   * Cost: $5.57
+* Idle Air Controller (IAC) valve replacement
+  * Cost: $48.00 (eBay)
   
 
 
