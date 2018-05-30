@@ -71,6 +71,10 @@
   * Cost: $5.57
 * Idle Air Controller (IAC) valve replacement
   * Cost: $48.00 (eBay)
+* Window lock switch replacement (dash)
+  * Cost: $21.50 (eBay)
+* Rear window defrost switch replacement
+  * Cost: $13.50 (eBay)
   
 
 
