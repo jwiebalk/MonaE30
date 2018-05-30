@@ -66,6 +66,9 @@
   * Cost: $9.61 (eBay)
 * Wiper Blades - Bosch ICON
   * Cost: $38.30
+* Fuel dampner removal - (leaking)
+  * Replaced with [hose barb](https://www.amazon.com/gp/product/B013VTGBX6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+  * Cost: $5.57
   
 
 
