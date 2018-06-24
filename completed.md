@@ -75,6 +75,6 @@
   * Cost: $21.50 (eBay)
 * Rear window defrost switch replacement
   * Cost: $13.50 (eBay)
-  
-
-
+* [M3 Front Control Arm Bushings](https://www.ecstuning.com/b-lemforder-parts/m3-front-control-arm-bushing-set/31129069035~lem/)
+  * Cost: $34.47
+  * Shop cost: $55 to have bushings pressed in
