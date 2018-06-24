@@ -80,3 +80,5 @@
   * Shop cost: $55 to have bushings pressed in
 * [OBC LED conversion](https://www.ebay.com/itm/BMW-LED-BULB-OBC-LIGHT-BAR-CONVERSION-KIT-E30-M3-325i-E28-E24-On-Board-Computer/253645904799?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
   * Cost: $10.75
+* [Euro taillight set](https://www.ebay.com/itm/Euro-Red-Clear-Rear-Tail-Light-w-Bulbs-Pair-For-1983-1987-BMW-E30-3-Series/123024666711?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
+  * Cost: $89.19
