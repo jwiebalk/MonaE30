@@ -82,3 +82,5 @@
   * Cost: $10.75
 * [Euro taillight set](https://www.ebay.com/itm/Euro-Red-Clear-Rear-Tail-Light-w-Bulbs-Pair-For-1983-1987-BMW-E30-3-Series/123024666711?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
   * Cost: $89.19
+* [Rear Subframe Bushings](https://www.ecstuning.com/b-febi-parts/subframe-mount-bushing-priced-each/33311129144~feb/)
+  * Cost: $25.40
