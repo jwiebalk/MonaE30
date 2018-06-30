@@ -84,3 +84,7 @@
   * Cost: $89.19
 * [Rear Subframe Bushings](https://www.ecstuning.com/b-febi-parts/subframe-mount-bushing-priced-each/33311129144~feb/)
   * Cost: $25.40
+* Driver Rear Coil Spring
+  * Cost: $47.00 (eBay)
+* Welding of control arm mount
+  * Cost: $94.00 (Completed by [Domination Chassis](http://www.dominationchassis.com))
