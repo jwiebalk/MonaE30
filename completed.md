@@ -88,3 +88,6 @@
   * Cost: $47.00 (eBay)
 * Welding of control arm mount
   * Cost: $94.00 (Completed by [Domination Chassis](http://www.dominationchassis.com))
+* Tires
+  * Cost: 135.88
+  * Sentury Touring 185/65R14 from [DiscountTireDirect](https://www.discounttiredirect.com/buy-tires/sentury-touring/p/35398)
