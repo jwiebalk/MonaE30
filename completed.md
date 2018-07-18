@@ -97,6 +97,8 @@
     * Cost: $30.69
   * Rotors: [Zimmerman](https://www.fcpeuro.com/products/bmw-brake-disc-zimmermann-34111160915)
     * Cost: $58.66
-* Aux Radiator Fan Resistor
+* [Bosch Aux Radiator Fan Resistor](https://www.ebay.com/itm/NEW-BMW-E12-E24-E28-E30-OEM-Radiator-Fan-Resistor-17-40-1-373-177-Bosch/351487666387)
   * Cost: $20.21
     * Note: The wiring bolts are M4x0.7
+* PA State Inspection + Emissions
+  * Cost: $90
