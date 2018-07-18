@@ -91,8 +91,12 @@
 * Tires
   * Cost: 135.88
   * Sentury Touring 185/65R14 from [DiscountTireDirect](https://www.discounttiredirect.com/buy-tires/sentury-touring/p/35398)
+    * Install: 80.57
 * Front Brakes
   * Pads: [ATE](https://www.fcpeuro.com/products/bmw-brake-pad-set-d385a-1)
     * Cost: $30.69
   * Rotors: [Zimmerman](https://www.fcpeuro.com/products/bmw-brake-disc-zimmermann-34111160915)
     * Cost: $58.66
+* Aux Radiator Fan Resistor
+  * Cost: $20.21
+    * Note: The wiring bolts are M4x0.7
