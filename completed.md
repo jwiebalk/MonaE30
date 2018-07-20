@@ -102,3 +102,5 @@
     * Note: The wiring bolts are M4x0.7
 * PA State Inspection + Emissions
   * Cost: $90
+* [Garagistic 80A Poly Engine Mounts](https://store.garagistic.com/bmw-performance-parts/bmw-3-series-parts/e30-performance-parts/E30-polyurethane-bushings/E30-80a-motor-mounts)
+  * Cost: $45
