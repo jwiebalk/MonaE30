@@ -104,3 +104,5 @@
   * Cost: $90
 * [Garagistic 80A Poly Engine Mounts](https://store.garagistic.com/bmw-performance-parts/bmw-3-series-parts/e30-performance-parts/E30-polyurethane-bushings/E30-80a-motor-mounts)
   * Cost: $45
+* [Auxiliary Fan Switch - 82C](https://www.ecstuning.com/b-febi-parts/auxiliary-fan-switch-82c/61311364272-slash-82~f/)
+  * Cost: $14.06
