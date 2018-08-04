@@ -106,3 +106,12 @@
   * Cost: $45
 * [Auxiliary Fan Switch - 82C](https://www.ecstuning.com/b-febi-parts/auxiliary-fan-switch-82c/61311364272-slash-82~f/)
   * Cost: $14.06
+* Rear Brakes
+  * Pads: [ATE](https://www.fcpeuro.com/products/bmw-disc-brake-pad-set-front-eu279)
+    * Cost: $35.19
+  * Rotors: [Zimmerman](https://www.fcpeuro.com/products/clone-bmw-disc-brake-rotor-rear-34216755407)
+    * Cost: $48.58
+* [A/C Low pressure line](https://www.amazon.com/gp/product/B000UOABB4/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+  * Cost: $41.88
+* Used lower air filter box
+  * Cost: $20 (eBay)
