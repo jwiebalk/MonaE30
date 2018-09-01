@@ -115,3 +115,13 @@
   * Cost: $41.88
 * Used lower air filter box
   * Cost: $20 (eBay)
+* Yakima Roof Rack
+  * 1A Rain Gutter Towers
+    * Cost: $105
+  * 48" Round Bars
+    * Cost: $45
+* Ignition Cap and Rotor
+  * Cap: [Bremi](https://www.ecstuning.com/b-bremi-parts/ignition-distributor-cap/12111725070~bri/)
+    * Cost: $52.95
+  * Rotor: [Bosch](https://www.ecstuning.com/b-bosch-parts/ignition-rotor/12111715906~bos/)
+    * Cost: $23.74
