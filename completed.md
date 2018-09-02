@@ -125,3 +125,5 @@
     * Cost: $52.95
   * Rotor: [Bosch](https://www.ecstuning.com/b-bosch-parts/ignition-rotor/12111715906~bos/)
     * Cost: $23.74
+* [Auxiliary Fan Switch - 99C](https://www.ecstuning.com/b-fae-parts/auxiliary-fan-switch-99c/61311364273~fae/)
+  * Cost: $14.50
