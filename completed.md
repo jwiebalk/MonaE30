@@ -127,3 +127,9 @@
     * Cost: $23.74
 * [Auxiliary Fan Switch - 99C](https://www.ecstuning.com/b-fae-parts/auxiliary-fan-switch-99c/61311364273~fae/)
   * Cost: $14.50
+* Valve adjustment and Valve Cover replacement
+  * [Valve cover gasket](https://www.ecstuning.com/b-victor-reinz-parts/valve-cover-gasket/11121730229~vr/)
+    * Cost: $6.53
+  * Replacement valve cover + painting
+    * Cost: $29.99 (eBay)
+
