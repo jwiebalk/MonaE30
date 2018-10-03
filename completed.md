@@ -132,6 +132,8 @@
     * Cost: $6.53
   * Replacement valve cover + painting
     * Cost: $29.99 (eBay)
+  * [Crankcase vent hose](https://www.ecstuning.com/b-mtc-parts/crankcase-ventilation-hose/11151278804~mtc/)
+    * Cost: $1.65
 * Black chrome gauge rings + bulbs
   * Cost: $25.50
   * Bulbs
