@@ -136,3 +136,6 @@
   * Cost: $25.50
   * Bulbs
     * Cost: $2.50
+* Floor mats
+  * Set of 4 mats from R3V forums
+    * Cost: $30.00
