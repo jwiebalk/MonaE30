@@ -132,4 +132,7 @@
     * Cost: $6.53
   * Replacement valve cover + painting
     * Cost: $29.99 (eBay)
-
+* Black chrome gauge rings + bulbs
+  * Cost: $25.50
+  * Bulbs
+    * Cost: $2.50
