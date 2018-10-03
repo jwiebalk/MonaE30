@@ -1,6 +1,5 @@
 # MonaE30
 Repository for the rebuild/build of my BMW E30
 
-![img_0907](https://user-images.githubusercontent.com/421630/40282805-8ecd1902-5c42-11e8-8f6c-d176d2c4469a.jpg)
-![img_0909](https://user-images.githubusercontent.com/421630/40282806-8ed967e8-5c42-11e8-897a-935bbde090af.jpg)
-![img_0922](https://user-images.githubusercontent.com/421630/40282807-8ee5cef2-5c42-11e8-8754-65ae526210a4.jpg)
+![img_1210](https://user-images.githubusercontent.com/421630/46415734-e5d38f80-c6f3-11e8-8981-85d2d33c5bab.jpg)
+![img_1261](https://user-images.githubusercontent.com/421630/46415803-11567a00-c6f4-11e8-9ba0-7221490ab4ec.jpg)
