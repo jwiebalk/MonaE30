@@ -141,3 +141,5 @@
 * Floor mats
   * Set of 4 mats from R3V forums
     * Cost: $30.00
+* Turn signal stalk
+  * Cost: $55 (eBay)
