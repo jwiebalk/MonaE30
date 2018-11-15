@@ -143,3 +143,11 @@
     * Cost: $30.00
 * Turn signal stalk
   * Cost: $55 (eBay)
+* Exhaust system
+  * Magnaflow Touring Cat-Back Exhaust (#16536) 
+    * Cost: [$456.60](https://www.ecstuning.com/b-magnaflow-parts/magnaflow-touring-cat-back-exhaust/16536~mag/)
+  * Exhaust Gasket
+    * Cost: $1.51
+  * Exhaust hangers
+    * Cost: $2.19 (x3)
+  
