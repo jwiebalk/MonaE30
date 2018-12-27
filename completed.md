@@ -150,4 +150,9 @@
     * Cost: $1.51
   * Exhaust hangers
     * Cost: $2.19 (x3)
-  
+* Remanufactured Driveshaft (with CSB)
+  * [Driveshaft Specialists](http://driveshaftspecialist.com/Import%20html/BMW.html)
+    * Cost: $409
+  * Labor: $246
+* Auto Transmission mounts
+  * Cost: [$5.99 x2](https://www.ecstuning.com/b-corteco-parts/transmission-mount-priced-each/24711128372~cor/)
