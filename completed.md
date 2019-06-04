@@ -156,3 +156,10 @@
   * Labor: $246
 * Auto Transmission mounts
   * Cost: [$5.99 x2](https://www.ecstuning.com/b-corteco-parts/transmission-mount-priced-each/24711128372~cor/)
+* MTECH1 Wheel
+  * Used wheel (eBay)
+    * Cost: $135.00
+  * Rewrapped in an Alcantara Blue by [RedlineGoods](https://www.redlinegoods.com/SteeringWheelCover.php)
+    * Cost: $362.97
+* Wing mirror glass
+  * Cost $50.00 pair (eBay)
