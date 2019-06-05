@@ -163,3 +163,7 @@
     * Cost: $362.97
 * Wing mirror glass
   * Cost $50.00 pair (eBay)
+* [15"x7" Beyern Mesh Square Wheel Set - Black With Machined Lip](https://www.ecstuning.com/b-beyern-wheels-parts/15-beyern-mesh-square-wheel-set-black-with-machined-lip/4x100beymeshkt/)
+  * Cost: 599.80
+  * [205/55R15 Yokohama S Drive Tires](https://www.tirerack.com/tires/tires.jsp?tireMake=Yokohama&tireModel=S.drive&partnum=055WR5S)
+    * Cost: $363.80
