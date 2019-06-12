@@ -167,3 +167,12 @@
   * Cost: 599.80
   * [205/55R15 Yokohama S Drive Tires](https://www.tirerack.com/tires/tires.jsp?tireMake=Yokohama&tireModel=S.drive&partnum=055WR5S)
     * Cost: $363.80
+* [Dashmat dashboard cover](https://www.amazon.com/gp/product/B000F10PNG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  * Cost: 38.09
+* Front swaybar
+  * [Front Swaybar bushing brackets](https://www.ecstuning.com/b-genuine-bmw-parts/front-sway-bar-bracket-priced-each/31351127202/)
+    * Cost: $8.54/ea
+  * [Front swaybar bushing](https://www.ecstuning.com/b-febi-parts/front-sway-bar-bushing-priced-each/31351129139~feb/)
+    * Cost: $5.95/ea
+  * [Front swaybar end links](https://www.ecstuning.com/b-febi-parts/front-stabilizer-link-priced-each/31351091764~feb/)
+    * Cost: $13.95/ea
