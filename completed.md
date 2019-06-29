@@ -176,3 +176,6 @@
     * Cost: $5.95/ea
   * [Front swaybar end links](https://www.ecstuning.com/b-febi-parts/front-stabilizer-link-priced-each/31351091764~feb/)
     * Cost: $13.95/ea
+* Ignition Wires
+  * Ireland Engineering 8mm Performance wires (red)
+    * Cost: [102.00](http://www.iemotorsport.com/bmw/item/e30wire325e8.html)
