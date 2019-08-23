@@ -179,3 +179,6 @@
 * Ignition Wires
   * Ireland Engineering 8mm Performance wires (red)
     * Cost: [102.00](http://www.iemotorsport.com/bmw/item/e30wire325e8.html)
+* Euro rear "small" bumper swap
+  * ECS Tuning
+    * Cost: [799.00](https://www.ecstuning.com/b-assembled-by-ecs-parts/e30-euro-small-rear-bumper-kit/51121888276~kt/)
