@@ -4,3 +4,4 @@
 * HVAC blower motor (current one squeeks some times)
 * Chase Bays hard brake line replacement kit
 * Stainless braided brake hoses
+* Mint Performance T3 turbo manifold
